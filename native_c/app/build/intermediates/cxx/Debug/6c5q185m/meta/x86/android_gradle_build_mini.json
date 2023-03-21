@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\John\\StudioProjects\\native_c\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\John\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\John\\StudioProjects\\native_c\\app\\.cxx\\Debug\\6c5q185m\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\John\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\John\\StudioProjects\\native_c\\app\\.cxx\\Debug\\6c5q185m\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native_c::@6890427a1f51a3e7e1df": {
+      "artifactName": "native_c",
+      "abi": "x86",
+      "output": "C:\\Users\\John\\StudioProjects\\native_c\\app\\build\\intermediates\\cxx\\Debug\\6c5q185m\\obj\\x86\\libnative_c.so",
+      "runtimeFiles": []
+    }
+  }
+}
